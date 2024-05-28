@@ -1,0 +1,17 @@
+{
+  "name": "web3auth-validation",
+  "version": "1.0.0",
+  "description": "Valiation API for web3auth",
+  "main": "index.js",
+  "author": "Veerapandi S",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "jose": "^5.3.0"
+  }
+}
